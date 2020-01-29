@@ -1,0 +1,21 @@
+{
+  "name": "nguardpym",
+  "version": "1.0.7",
+  "description": "nodejs wacth restart",
+  "main": "./lib/index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ngp": "./bin/guard.js"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^3.10.0"
+  },
+  "author": "wuwenzhou",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.3.1"
+  }
+}
