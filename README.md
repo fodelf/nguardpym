@@ -21,7 +21,7 @@ node watch some files change to use npm
 
 1. 支持场景
 
-   - [x] npm <command>
+   - [x] npm 
 
 #### 技术栈（当前）
 
@@ -31,6 +31,8 @@ node watch some files change to use npm
 
 ```
 npm install nguardpym -g
+
+ngp run xxx
 ```
 
 ##  Example
