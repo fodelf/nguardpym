@@ -1,6 +1,6 @@
 {
   "name": "nguardpym",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "nodejs wacth restart",
   "main": "./lib/index.js",
   "scripts": {
@@ -14,7 +14,11 @@
     "@vue/cli-service": "^3.10.0"
   },
   "author": "wuwenzhou",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fodelf/nguardpym.git"
+  },
   "dependencies": {
     "chokidar": "^3.3.1"
   }
